@@ -24,8 +24,9 @@ For updates on `awesome-oracledb` and thoughts/news about databases/tools/SQL fo
 - [Kubernetes](#kubernetes)
 - [Reporting](#reporting)
 - [Security](#security)
-- [Learning](#learning)
+- [Learning](#learning)              
 - [Scripts](#scripts)
+- [Generation](#generationmaskingsubsetting)
 
 ## IDE
 - [Oracle SQL Developer](https://www.oracle.com/in/database/sqldeveloper/) - Oracle SQL Developer is a free, integrated development environment that simplifies the development and management of Oracle Database in both traditional and Cloud deployments..
@@ -95,11 +96,9 @@ Building API for your Data
 - [Poli](https://github.com/shzlw/poli) - An easy-to-use SQL reporting application built for SQL lovers.
 
 
-
 ## Security
 - [Oracle Database Security Assessment Tool](https://www.oracle.com/in/database/technologies/security/dbsat.html) - Oracle Database Security Assessment Tool (DBSAT) is a popular command-line tool that helps identify areas where your database configuration, operation, or implementation introduces risks and recommends changes and controls to mitigate those risks
 - [Inspektor](https://github.com/poonai/inspektor) - Access control layer for databases. Inspektor leverages open policy agent to make policy decisions.
-
 
 
 ### Learning
@@ -113,6 +112,7 @@ Learning and puzzles for SQL
 ### Scripts
 Useful oracle-scripts for various purposes
 - [TPT](https://github.com/tanelpoder/tpt-oracle) - These sqlplus scripts are for Oracle Database performance optimization & troubleshooting.
+- [oraclebase/dba](https://github.com/oraclebase/dba) - Scripts for oracle
 
 
 
