@@ -18,6 +18,7 @@ For updates on `awesome-oracledb` and thoughts/news about databases/tools/SQL fo
   - [Samples](#samples)
 - [API](#api)
 - [Backup](#backup)
+- [Connectors](#connectors)
 - [Prometheus](#prometheus)
 - [Zabbix](#zabbix)
 - [Testing](#testing)
@@ -69,6 +70,13 @@ Building API for your Data
 ## Backup
 - [Oracle Recovery Manager](https://www.oracle.com/de/database/technologies/high-availability/rman.html) - Oracle Recovery Manager satisfies the most pressing demands of performant, manageable backup and recovery, for all Oracle data formats.
 - [actifio](https://www.actifio.com/solutions/database/oracle/backup-recovery/) - Actifio software helps enterprises with rapid backup and instant recovery of their mission-critical Oracle databases.
+
+
+## Connectors
+
+*OracleDB connectors for various programming languages*
+
+- [ballerinax/oracledb](https://github.com/ballerina-platform/module-ballerinax-oracledb) - Official Ballerina connector for OracleDB.
 
 
 ## Monitoring/Statistics/Perfomance
