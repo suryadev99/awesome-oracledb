@@ -33,6 +33,7 @@ For updates on `awesome-oracledb` and thoughts/news about databases/tools/SQL fo
 - [dbForge Studio for Oracle](https://www.devart.com/dbforge/oracle/studio) - Powerful IDE for Oracle management, administration, and development.
 - [Oracle SQL Developer](http://www.oracle.com/technetwork/developer-tools/sql-developer) - Oracle SQL Developer is a free, integrated development environment that simplifies the development and management of Oracle Database in both traditional and Cloud deployments.
 - [PL/SQL Developer](https://www.allroundautomations.com/products/pl-sql-developer) - IDE that is specifically targeted at the development of stored program units for Oracle Databases.
+- [SQLPro Studio](https://www.sqlprostudio.com) - Native macOS and iOS database client with support for Oracle, MySQL, PostgreSQL, SQLite, and Microsoft SQL Server.
 - [TOra](https://github.com/tora-tool/tora) - TOra is an open source SQL IDE for Oracle, MySQL and PostgreSQL dbs.
 
 
