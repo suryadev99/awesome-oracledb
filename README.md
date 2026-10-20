@@ -37,6 +37,7 @@ For updates on `awesome-oracledb` and thoughts/news about databases/tools/SQL fo
 
 
 ## GUI
+- [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern, easy-to-use cross-platform database manager with Oracle Database support in the paid tiers.
 - [SolarWinds Database Performance Analyzer for Oracle](https://www.solarwinds.com/database-performance-analyzer-oracle-monitoring-tuning)
 - [RedGate Deployment Suite](https://www.red-gate.com/hub/product-learning/deployment-suite-for-oracle) Oracle Database management tool with change management and schema compare/synchronization.
 
